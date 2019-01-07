@@ -1,0 +1,26 @@
+.header {
+  font-family: Georgia;
+  font-size: 2rem;
+  color: white;
+  float: right;
+  width: 40%;
+  text-transform: uppercase;
+  margin-top: 30rem;
+}
+.header-two {
+  margin-top: 3rem;
+  font-family: Georgia;
+  font-size: 2rem;
+  color: white;
+  float: right;
+  width: 40%;
+  text-transform: uppercase;
+}
+img {
+  margin-top: 4rem;
+  margin-left: 100%;
+}
+
+body {
+  background: url('/static/images/got.jpeg');
+}
