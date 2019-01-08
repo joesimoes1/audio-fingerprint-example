@@ -1,26 +1,20 @@
 .header {
   font-family: Georgia;
-  font-size: 2rem;
+  font-size: 1.2rem;
   color: white;
-  float: right;
-  width: 40%;
   text-transform: uppercase;
-  margin-top: 30rem;
-}
-.header-two {
-  margin-top: 3rem;
-  font-family: Georgia;
-  font-size: 2rem;
-  color: white;
-  float: right;
-  width: 40%;
-  text-transform: uppercase;
+  margin-top: 40rem;
+  text-align: center;
 }
 img {
-  margin-top: 4rem;
-  margin-left: 100%;
+  width: 10rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  margin-top: 0.1rem;
 }
 
 body {
-  background: url('/static/images/got.jpeg');
+  background: url('/static/images/game-of-thrones.png');
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
