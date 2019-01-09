@@ -1,16 +1,17 @@
 .header {
   font-family: Georgia;
-  font-size: 1.5rem;
+  font-size: 2.75rem;
   color: black;
   text-transform: uppercase;
-  margin-top: 80%;
+  margin-top: 55rem;
   text-align: center;
 }
 img {
-  width: 14rem;
-  margin: 0.1rem 0 -0.2rem 0.2rem;
+  width: 18rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  margin-top: 0.1rem;
 }
-
 body {
   background: url('/static/images/game-of-thrones.png');
   background-size: 100%;
